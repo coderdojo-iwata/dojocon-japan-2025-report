@@ -41,7 +41,7 @@ _paginate: false
 
 ## 現地の様子は [こちら](https://www.youtube.com/playlist?list=PL_XgRvFvKBPY9xDNup3tV_qlnXFzu_lL_) からも視聴できます！
 
-![](./assets/img/dojocon_playlist.png)
+![](./assets/img/dojocon_playlist.jpeg)
 
 ---
 
